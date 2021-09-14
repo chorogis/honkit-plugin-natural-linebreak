@@ -1,0 +1,27 @@
+{
+    "name": "honkit-plugin-natural-linebreak",
+    "version": "0.1.0",
+    "description": "Converts line breaks in paragraphs to `<br />`",
+    "engines": {
+        "honkit": ">=3.6.0"
+    },
+    "keywords": [
+        "gitbook",
+        "gitbook-plugin",
+        "honkit",
+        "honkit-plugin"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chorogis/honkit-plugin-natural-linebreak.git"
+    },
+    "author": "chorogis",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/chorogis/honkit-plugin-natural-linebreak/issues"
+    },
+    "homepage": "https://github.com/chorogis/honkit-plugin-natural-linebreak#readme",
+    "dependencies": {
+        "cheerio": ">=1.0.0-rc.10"
+    }
+}
